@@ -14,6 +14,6 @@ var calculateHeight = function calculateHeight(pixelHeight) {
   return `${feet}ft ${remainingInches}in`;
 };
 
-HEIGHT = 16;
+HEIGHT = 28;
 
 console.log(calculateHeight(HEIGHT)); // Example usage
