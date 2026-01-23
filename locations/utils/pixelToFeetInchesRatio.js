@@ -14,6 +14,11 @@ var calculateHeight = function calculateHeight(pixelHeight) {
   return `${feet}ft ${remainingInches}in`;
 };
 
-HEIGHT = 28;
-
-console.log(calculateHeight(HEIGHT)); // Example usage
+// get command line args
+const args = process.argv.slice(2);
+if (args.length === 2) {
+  const pixelWidth = parseInt(args[0], 10);
+  const pixelHeight = parseInt(args[1], 10);
+  console.log(`Width: ${calculateWidth(pixelWidth)}`);
+  console.log(`Height: ${calculateHeight(pixelHeight)}`);
+}
