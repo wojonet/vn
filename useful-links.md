@@ -9,3 +9,12 @@ https://www.youtube.com/watch?v=dLZEmfqob7k
 
 Interior Lights in Blender (coral lab)
 https://www.youtube.com/watch?v=g3J89WPubPs
+
+Easy Interior Lighting in Blender EEVEE (Tutorial)
+https://www.youtube.com/watch?v=pRUMeaVatdw
+
+Learn Anime-Style Lighting in Blender! (Full Tutorial)
+https://www.youtube.com/watch?v=uapjcxLp9fM&t=11s
+
+Simple Blender 3D settings to render anime style interior scene background art
+https://www.youtube.com/watch?v=-31HNc1zD5E
