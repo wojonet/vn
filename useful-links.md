@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=uapjcxLp9fM&t=11s
 
 Simple Blender 3D settings to render anime style interior scene background art
 https://www.youtube.com/watch?v=-31HNc1zD5E
+
+Making 3D animation look painterly (it's easier than you think)
+https://www.youtube.com/watch?v=s8N00rjil_4g
